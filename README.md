@@ -1,6 +1,6 @@
 # eb-cli
 
-## Attention: This image should be used only for DEVELOPMENT AND TESTING purporses, as it uses root installation which can cause security issues.
+**Attention: This image should be used only for DEVELOPMENT AND TESTING purporses, as it uses root installation which can cause security issues.**
 
 Usage Example:
 ``` bash
